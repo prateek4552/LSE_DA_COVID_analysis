@@ -1,8 +1,8 @@
 # LSE_DA_COVID_analysis
 LSE_DA Couse 2 Python_Assignment
+Analysis of UK Covid19 data in order to direct the marketing campaign regarding vaccinations in the most appropriate Province/State.
 
 Final Assignment 2,3,4,5 Jupyter notebook:
-Analysis of UK Covid19 data in order to direct the marketing campaign regarding vaccinations in the most appropriate Province/State.
 Creation of DataFrames through CSV files, detailing Covid cases, deaths, vaccinations, hospitalisations, recoveries, etc. across various UK Province/States. One dataframe contains vaccination details and other contains details of COVID cases in UK.
 Created a subset for deep diving in Gibraltar Data.
 Merged both Dataframes, converted 'Date' type to datetime and dropped not essential columns for ease of analysis.
