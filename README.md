@@ -18,3 +18,6 @@ Analysed Twitter data for trending tweets containing Covid related hashtags
 Bar plot showing Top 25 trending topics in UK on Twitter
 Bar plot showing Top 10 trending topics in UK on Twitter
 
+Week 6 Final Assignment: 
+Time Series graph showing Hospitalisation cases in Channel Islands over time, with a 7 day moving average.
+Answers to stakeholders questions
